@@ -9,6 +9,7 @@
 | The Software Engineer's Guidebook | Gergely Orosz | [読書ノート](the_software_engineers_guidebook/toc.md) | |
 | プロダクトマネージャーのしごと 第2版 | Matt LeMay | [読書ノート](product_managers_job/toc.md) | |
 | スタッフエンジニアの道 | Tanya Reilly | - | GTMエンジニアリング文脈で再読価値あり |
+| Wardley Maps | Simon Wardley | [読書ノート](wardley_maps/toc.md) | CC BY-SA 4.0。戦略の可視化フレームワーク |
 
 ## 次に読む（優先度高）
 
