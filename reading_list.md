@@ -10,6 +10,7 @@
 | プロダクトマネージャーのしごと 第2版 | Matt LeMay | [読書ノート](product_managers_job/toc.md) | |
 | スタッフエンジニアの道 | Tanya Reilly | - | GTMエンジニアリング文脈で再読価値あり |
 | Wardley Maps | Simon Wardley | [読書ノート](wardley_maps/toc.md) | CC BY-SA 4.0。戦略の可視化フレームワーク |
+| サイバー攻撃 その瞬間 社長の決定 | 関通サイバー攻撃対策室 | [読書ノート](cyber-attack-book/README.md) | ランサムウェア被害の実録。カテゴリ別整理 |
 
 ## 次に読む（優先度高）
 

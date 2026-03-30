@@ -9,6 +9,7 @@
 | [The Software Engineer's Guidebook](the_software_engineers_guidebook/toc.md) | Gergely Orosz | 25章 | 読了 |
 | [プロダクトマネージャーのしごと 第2版](product_managers_job/toc.md) | Matt LeMay | 16章 | 読了 |
 | [Wardley Maps](wardley_maps/toc.md) | Simon Wardley | 19章 | 読了 |
+| [サイバー攻撃 その瞬間 社長の決定](cyber-attack-book/README.md) | 関通サイバー攻撃対策室 | 9ファイル | 読了 |
 
 全書籍の一覧と次の候補は [reading_list.md](reading_list.md) を参照。
 
